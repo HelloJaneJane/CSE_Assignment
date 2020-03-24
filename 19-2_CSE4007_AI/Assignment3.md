@@ -187,12 +187,12 @@
 
 ### 2. 실행 결과
 
-![result_image_1](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment3\result_image_1.png)
+![result_image_1](.\assignment3\result_image_1.png)
 
 - 보통 N이 4, 5일 때는 1세대에서 답을 찾는 결과가 나왔다. 인구 수를 5000으로 잡았기 때문에 랜덤하게 1세대를 채우는 과정에서 답이 나오는 것으로 보인다.
 - 결과들을 분석해보기 위해 testGenetic.java에서는 1000번 돌렸을 때 답이 찾아지는 generation 번호의 평균, 각 방법 (1세대, crossover, mutation)에서 답이 찾아진 횟수를 계산했다.
 
-![result_image_2](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment3\result_image_2.png)
+![result_image_2](.\assignment3\result_image_2.png)
 
 - N이 4,5일 때에는 전부 1세대에서 답을 찾았다.
 
@@ -202,7 +202,7 @@
 
 - 앞서 언급했듯 중복된 부모를 처리하는 과정에서 코드를 수정했고, 이로인해 실행결과나 답을 찾는 속도가 많이 달라졌다.
 
-![result_image_3](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment3\result_image_3.png)
+![result_image_3](.\assignment3\result_image_3.png)
 
 - 이 결과를 보면 fail횟수 (10만번 반복해도 답이 나오지 않을 때) 가 꽤 많이 나왔다.
 - 이를 통해 중복된 부모 (다양하지 않은 유전자) 가 유전알고리즘에서 큰 영향을 미친다는 것을 알 수 있었다.

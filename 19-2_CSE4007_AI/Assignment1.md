@@ -155,8 +155,8 @@ if (d == (r - l)) return 0;
 
 * compile, result4
 
-  ![result_image_1](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment1\result_image_1.png)
+  ![result_image_1](.\assignment1\result_image_1.png)
 
 * result3, result7
 
-  ![result_image_2](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment1\result_image_2.png)
+  ![result_image_2](.\assignment1\result_image_2.png)
