@@ -58,17 +58,17 @@ if s.check() == sat:
 
 ##### * 예 : N=8일 때
 
-![example_image_1](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment4\example_image_1.png)
+![example_image_1](./assignment4/example_image_1.png)
 
 
 
 #### 실행화면
 
-![result_image_1](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment4\result_image_1.png)
+![result_image_1](./assignment4/result_image_1.png)
 
 * ##### 실행시간 비교
 
-  ![result_image_2](C:\Users\JaneYi\Assignment\19-2_CSE4007_AI\assignment4\result_image_2.png)
+  ![result_image_2](./assignment4/result_image_2.png)
 
   * naive는 N이 2개씩 쌍으로 비슷한 시간이 소요되고, 그 다음 쌍으로 넘어갈 때 약 2배 걸린다. optimized는 증가폭이 naive에서 쌍으로 비슷한 시간의 증가폭보다도 작다.
   * N이 커질수록 증가폭도 커진다.

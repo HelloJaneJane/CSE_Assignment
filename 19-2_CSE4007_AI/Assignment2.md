@@ -124,7 +124,7 @@ else restart++;
 
 * result5, result20
 
-  ![result_image_1](.\assignment2\result_image_1.png)
+  ![result_image_1](./assignment2/result_image_1.png)
 
 
 
@@ -132,6 +132,6 @@ else restart++;
 
 * N=8 인 경우를 1000번 실행, restart 횟수를 평균냈을 때의 결과가 12로 나왔다.
 
-  ![result_image_2](.\assignment2\result_image_2.png)
+  ![result_image_2](./assignment2/result_image_2.png)
 
   * 8-Queens 문제의 답의 개수는 92개이다.
