@@ -10,4 +10,4 @@
 * 2019-2  CSE4007  인공지능  Artificial Intelligence
 * 2019-2  MAT3008  수치해석  Numerical Analysis
 * 2020-1  ELE3021  운영체제  Operating System
-
+* 2021-1  ITE4005  데이터사이언스  Data Miniing
